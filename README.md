@@ -1,4 +1,4 @@
-# geodesic-of-a-sphere
+# geodesic-of-a-sphere-and-a-cylinder
 Geodesic is the minimum path along some given surface between two points on that surface only ,
 For eg:- a straight line is the geodesic when we have to move along a plane surface between two points along this plane surface without accelerating,
 
