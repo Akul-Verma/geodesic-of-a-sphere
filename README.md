@@ -6,4 +6,3 @@ similarly a great circle is the geodesic i.e minimum path for someone who has to
 spherical surface.
 ( here great circle is a circle which have the common center as that of the spherical surface and it shares the boundary with that spherical surface)
 
-https://user-images.githubusercontent.com/92621469/137580264-a92e3f73-d2d3-479f-9fc3-43723c8908ad.gif
